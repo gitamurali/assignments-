@@ -1,0 +1,28 @@
+                     Github Commands
+
+  623  ssh-keygen
+  624  cd .ssh
+  625  pwd
+  626  cd ../
+  627  cd .ssh/
+  628  ls
+  629  cat id_rsa.pub
+  630  cd ../
+  631  git clone           git@github.com:gitamurali/assignments-.git
+  
+  632  ls
+  633  cd Desktop/
+  634  cd Nov_GM/
+  635  ls
+  636  cd ../
+  637  cd ../
+  638  cd assignments-/
+  639  vim commands.txt
+  640  git add commands.txt
+  641  git status
+  642  git commit -m "this is basic commands  document"
+  643  git push
+  644  git status
+  645  history
+
+
