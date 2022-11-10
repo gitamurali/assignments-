@@ -1,0 +1,115 @@
+                                            Basic Gitbash commands
+  505 mkdir Nov_GM
+  506 ls
+  507 cd Nov_GM
+
+  508 mkdir folder1
+  509 ls
+  510 mkdir
+  511 mkdir folder2
+  512 ls
+  513 cd folder1
+  514 pwd
+  515 mkdir folder1.1
+  516 mkdir folder 1.2
+  517 ls
+  518 mv folder/ folder1.2
+  519 ls
+  520 rm 1.2
+  521 rm -r 1.2
+  522 ls
+  523 pwd
+  524 cd ..
+  525 ls
+  526 cd folder2
+  527 ls
+  528 mkdir folder2.1
+  529 mkdir folder2.2
+  530 ls
+  531 pwd
+  532 cd ../
+  533 ls
+  534 touch file1.txt
+  535 vim file1.txt
+  536 cat file1.txt
+  537 ls
+  538 cp file1.txt folder1/folder1.1/
+  539 ls
+  540 cd folder1
+  541  cd folder1.1
+  542  ls
+  543  pwd
+  544  cd ../../
+  545  vim file2.txt
+  546  cat file2.txt
+  547  cp file2.txt folder1/folder1.2
+  548  cd folder1/folder2
+  549  cd folder1 folder2
+  550  cd folder1
+  551  cd folder1.2
+  552  ls
+  553  vim file2.txt
+  554  cd ../
+  555  cd ..
+  556  vim file3.txt
+  557  vim file4.txt
+  558  vim file5.txt
+  559  ls
+  560  cat file5.txt
+  561  cp file4.txt file5.txt
+  562  cat file5.txt
+  563  vim file5.txt
+  564  cat file5.txt
+  565  cp file3.txt folder2/folder2.1
+  566  cp file4.txt folder2/folder2.2
+  567  ls
+  568  cd folder2
+  569  ls
+  570  cd folder2.1
+  571  ls
+  572  cd ,,/,,/
+  573  cd ../../
+  574  cp file5.txt  folder1/folder1.1
+  575  ls
+  576  cd folder1
+  577  ls
+  578  cd folder1.1
+  579  ls
+  580  mv file5.txt ../../folder2/folder2.1
+  581  ls
+  582  cd ../../folder2/folder2.1
+  583  pwd
+  584  ls
+  585  whoami
+  586  logs
+  587  cd ../../
+  588  ls
+  589  rm file3.txt,file5.txt
+  590  rm --help
+  591  rm file3.txt
+  592  ls
+  593  rm file5.txt
+  594  ls
+  595  cd folder2/folder2.2
+  596  ls
+  597  cd ../folder2.1
+  598  ls
+  599  cp file3.txt,file5.txt ../../
+  600  cd ../../
+  601  ls
+  602  cd folder2/folder2.1
+  603  ls
+  604  cp file3.txt ../../
+  605  ls
+  606  cd ../
+  607  cd../
+  608  cd ../
+  609  ls
+  610  cd folder2/folder2.1
+  611  cp file5.txt ../../
+  612  ls
+  613  cd ../../
+  614  ls
+  615  history
+
+
